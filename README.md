@@ -54,5 +54,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalhoc" height="200"/>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcarvalhoc" alt="gabrielcarvalhoc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielcarvalhoc" alt="gabrielcarvalhoc" /> </p>
