@@ -1,6 +1,12 @@
 <h1 align="center">Olá, sou o Gabriel! 👷👨‍💻</h1>
 <h3 align="center">Um Engenheiro Civil apaixonado por tecnologia que se tornou também um Desenvolvedor Front-End.</h3>
 
+<h3 align="left">Portfólio:</h3>
+<p align="left">
+  <a href="https://gabrielcarvalhoc.github.io/portfolio/">
+    <img src="https://img.icons8.com/fluency/48/000000/laptop.png" alt="portfolio" height="40" width="40"/>
+</p>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielcarvalhoc/">
@@ -13,10 +19,10 @@
 <h3 align="left">Linguagens e Frameworks:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
