@@ -5,12 +5,14 @@
 <p align="left">
   <a href="https://gabrielcarvalhoc.github.io/portfolio/">
     <img src="https://img.icons8.com/fluency/48/000000/laptop.png" alt="portfolio" height="40" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielcarvalhoc/">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+  </a>
   <a href="mailto:gabrielcarvalho@poli.ufrj.br">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="40" width="40"/>
   </a>
